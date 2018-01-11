@@ -1,5 +1,5 @@
 
-Fiberhome TL1 coonect and show ONUs connected on specific port
+FiberHome TL1 connect and show ONUs connected to specific port
 ------------------------------------------
 
 Jorge Luiz Taioque
